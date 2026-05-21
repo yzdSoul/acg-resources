@@ -20,14 +20,14 @@ acg-resources/
 
 | 类别 | 说明 |
 |:--|:--|
-| [📱 漫画阅读软件](#) | 哔咔、禁漫、EhViewer 各版本 |
-| [🔍 识图搜索工具](#) | Google、SauceNAO、iqdb 等 8 个工具 |
-| [🎮 Galgame 资源站](#) | 50+ 站点（区分免/需翻墙） |
-| [🌐 综合 ACG 站](#) | 60+ 综合资源站 |
-| [🎬 动画资源](#) | 表番 + 里番 |
-| [🎵 音乐 / ASMR](#) | 无损 OST、同人音声 |
-| [📦 精选元老级站](#) | E站、nyaa、2DJGAME 等 |
-| [🛠️ 黄油下载站](#) | BT 类 + 网盘类 + 资讯站 |
+| [📱 漫画阅读软件](./acg-resources.md#一漫画阅读软件) | 哔咔、禁漫、EhViewer 各版本 |
+| [🔍 识图搜索工具](./acg-resources.md#二识图搜索工具) | Google、SauceNAO、iqdb 等 8 个工具 |
+| [🎮 Galgame 资源站](./acg-resources.md#三galgame-资源站) | 50+ 站点（区分免/需翻墙） |
+| [🌐 综合 ACG 站](./acg-resources.md#四综合-acg-资源站) | 60+ 综合资源站 |
+| [🎬 动画资源](./acg-resources.md#五动画资源) | 表番 + 里番 |
+| [🎵 音乐 / ASMR](./acg-resources.md#六音乐--asmr) | 无损 OST、同人音声 |
+| [📦 精选元老级站](./acg-resources.md#七精选综合资源站元老级) | E站、nyaa、2DJGAME 等 |
+| [🛠️ 黄油下载站](./acg-resources.md#八黄油下载站) | BT 类 + 网盘类 + 资讯站 |
 
 ---
 
@@ -43,7 +43,7 @@ acg-resources/
 
 ## 📄 详细内容
 
-完整的分类资源列表请查看 [acg-resources.md](./acg-resources.md)。
+完整的分类资源列表请查看 **[acg-resources.md](./acg-resources.md)**。
 
 ---
 
