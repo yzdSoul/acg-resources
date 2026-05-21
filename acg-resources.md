@@ -115,7 +115,7 @@
 | 绅士论 | 综合 | https://sslun.com/ |
 | XACG资源社 | 综合 | acg.xacg.live |
 | 紳士の庭 (gmgard) | 汉化组/图资源 | https://gmgard.com/ |
-| 绅士会所（3） | 综合 | https://www.hentaiclub.net/ |
+| 绅士会所（3） | 综合 ✅已验证 | https://www.hentaiclub.net/ |
 | 吾爱萌 | 综合 | https://acgupup.com/ |
 | 琉璃神社 | 白嫖里番/本子/种子 | https://acg.gy/ 或 https://www.hacg.cat/ |
 | acgbus | ACG资源 | https://www.acgbuster.icu/ |
@@ -202,7 +202,7 @@
 | 绅士仓库 音乐 | CD下载 | https://cangku.moe/category/64 |
 | 2DKF 音乐 | 需注册 | https://bbs.2dkf.com/ |
 | ACG音符 | OST下载 | http://www.acglf.cn/music |
-| hanime1 | 里番动漫/在线（需翻墙） | https://hanime1.me/ |
+| hanime1 | 里番动漫/在线（需翻墙）✅已验证 | https://hanime1.me/ |
 | avbebe | 里番/AV/本子（需翻墙） | https://avbebe.com/ |
 | anime-sharing | 老外资源站 | https://www.anime-sharing.com/ |
 
@@ -212,7 +212,7 @@
 
 | 站点 | 类型 | 地址 |
 |------|------|------|
-| **E-hentai** | 本子（元老级） | https://e-hentai.org/ |
+| **E-hentai** | 本子（元老级）✅已验证 | https://e-hentai.org/ |
 | **Exhentai** | E站里站（更多本子） | https://exhentai.org/ |
 | **nyaa** | 磁力搜索 | https://sukebei.nyaa.si/ |
 | **nyaapantsu** | nyaa里站 | https://sukebei.pantsu.cat/ |
@@ -300,6 +300,33 @@
 | myanimelist | 英文/动画资讯 | https://myanimelist.net/ |
 | holyseal | 日文/黄油攻略补丁 | http://holyseal.net/ |
 | eroge-library | 日文/更新情报/壁纸 | http://eroge-library.net/ |
+
+---
+
+## 🔒 已验证补充站（来自 t46719，楼主亲自验过）
+
+### 图站
+| 站点 | 说明 | 地址 |
+|------|------|------|
+| Pixiv | P站，懂得都懂 ✅已验证 | https://www.pixiv.net/ |
+| nhentai | 各种漫画 ✅已验证 | https://nhentai.net/ |
+| 绅士漫画 | 绅士漫画 ✅已验证 | https://wnacg01.link/ |
+| 看漫画 | 在线看漫画 ✅已验证 | https://m.manhuagui.com/ |
+| Kemono | 福瑞相关 ✅已验证 | https://kemono.cr/ |
+| Picazor | 写真合集 ✅已验证 | https://picazor.com/zh/saizneko/albums |
+| girlsofdesire | 欧美色图写真 ✅已验证 | https://www.girlsofdesire.org/ |
+| 次元岛 | 写真图集 ✅已验证 | http://ciyuandao.com/ |
+| Cosplay中国 | COS写真 ✅已验证 | https://www.cosplay8.com/index.html |
+| Cos屋 | COS写真 ✅已验证 | https://www.cos5.com/index.html |
+| Gelbooru | 标签搜图 ✅已验证 | https://gelbooru.com/ |
+
+### 图+视频站
+| 站点 | 说明 | 地址 |
+|------|------|------|
+| Cospuri | Cosplay（部分收费有预览）✅已验证 | https://www.cospuri.com/ |
+| CosplayTele | Cosplay免费高质量 ✅已验证 | https://cosplaytele.com/category/video-cosplayy/ |
+| 魔都18 | 漫画/写真/视频 ✅已验证 | https://modu18.vip/ |
+| 变态网 | 综合 ✅已验证 | https://hentai44.com/category/hentai-pics/ |
 
 ---
 
